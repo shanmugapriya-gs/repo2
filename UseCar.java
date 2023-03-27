@@ -17,6 +17,7 @@ public class UseCar {
 			}
 		}
 	System.out.println(a.brand+" "+ a.color+" " +a.price+" " +a.isAutomatic);
+	System.out.println("");
 	}
 
 }

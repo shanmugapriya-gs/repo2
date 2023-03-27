@@ -7,6 +7,7 @@ public class UsePen {
 		p.price=80;
 		p.isInk=true;
 		System.out.println(p.findRefillable(p.isInk));
+		System.out.println("");
 	}
 
 }
